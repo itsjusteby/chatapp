@@ -1,0 +1,17 @@
+
+
+.login-content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+}
+
+.item-input-wrapper textarea {
+    width: 100% !important;
+}
+
+.item-input, .item-input-wrapper, textarea {
+    background-color: #f4f4f4 !important;
+}
