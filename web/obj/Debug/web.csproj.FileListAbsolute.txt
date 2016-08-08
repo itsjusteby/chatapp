@@ -18,3 +18,23 @@ C:\Users\Eby\Documents\Visual Studio 2015\Projects\ChatApp\web\bin\Microsoft.Cod
 C:\Users\Eby\Documents\Visual Studio 2015\Projects\ChatApp\web\obj\Debug\web.csprojResolveAssemblyReference.cache
 C:\Users\Eby\Documents\Visual Studio 2015\Projects\ChatApp\web\obj\Debug\web.dll
 C:\Users\Eby\Documents\Visual Studio 2015\Projects\ChatApp\web\obj\Debug\web.pdb
+D:\GitHub\chatapp\web\bin\roslyn\csc.exe
+D:\GitHub\chatapp\web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\chatapp\web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\chatapp\web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\chatapp\web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\chatapp\web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\chatapp\web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\chatapp\web\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\chatapp\web\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\chatapp\web\bin\roslyn\vbc.exe
+D:\GitHub\chatapp\web\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\chatapp\web\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\chatapp\web\bin\web.dll.config
+D:\GitHub\chatapp\web\bin\web.dll
+D:\GitHub\chatapp\web\bin\web.pdb
+D:\GitHub\chatapp\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\chatapp\web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\chatapp\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+D:\GitHub\chatapp\web\obj\Debug\web.dll
+D:\GitHub\chatapp\web\obj\Debug\web.pdb

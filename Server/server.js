@@ -2,10 +2,12 @@
 var app = express();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
+var port = process.env.port;
+
 var totalUser = 0;
 
-http.listen(1000, function () {
-    console.log('listening on *:1000');
+http.listen(port, function () {
+    console.log('listening on *:' + port);
 });
 
 
@@ -17,7 +19,7 @@ io.on('connection', function (socket) {
         message: 'There are ' + totalUser + ' participant(s)'
     }
     io.sockets.emit('receiveMessage', obj);
-
+    
     socket.on('disconnect', function () {
         console.log('disconnected');
         totalUser -= 1;

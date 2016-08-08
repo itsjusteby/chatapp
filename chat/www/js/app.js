@@ -38,3 +38,4 @@ angular.module('chat', ['ionic'])
 
     $urlRouterProvider.otherwise('/login');
 })
+
